@@ -1,3 +1,5 @@
 In light of the increasing frequency of improper and undesirable emails and messages, especially through platforms like WhatsApp, the need for an effective spam mail detection system has become more pronounced. This project aims to address this issue by developing a robust email spam detection model. 
+
 To achieve this objective, data is gathered from the provided dataset link, perform necessary data preprocessing (including cleaning and visualization steps), and extract the vocabulary and meaning of the emails. In the project five different machine learning algorithms implemented : Logistic Regression, K Nearest Neighbors, Multilayer Perceptron, Random Forests, and Gradient Boosting Machines. Following the training phase, the model will be evaluated on a test dataset. A user-friendly graphical user interface is developed, allowing users to select an algorithm and view model evaluation scores. Additionally, a feature is integrated to send the entered text from one email address to another if it is determined as not spam based on the model's evaluation.
+
 Dataset link: https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset/data
